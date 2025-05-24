@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rolex",
+    "Products": [
+      {
+        "Id": "RLX001",
+        "BrandId": 1,
+        "ProductName": "Submariner",
+        "GraphicName": "submariner.jpg",
+        "CostPrice": 7500,
+        "MSRP": 9200,
+        "QtyOnHand": 12,
+        "QtyOnBackOrder": 2,
+        "Description": "The iconic Rolex Submariner is a luxury diving watch known for its timeless design and durability."
+      },
+      {
+        "Id": "RLX002",
+        "BrandId": 1,
+        "ProductName": "Daytona",
+        "GraphicName": "daytona.jpg",
+        "CostPrice": 9000,
+        "MSRP": 12000,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 3,
+        "Description": "The Rolex Daytona is a chronograph designed for racing enthusiasts with a sleek, sporty appearance."
+      },
+      {
+        "Id": "RLX003",
+        "BrandId": 1,
+        "ProductName": "Datejust",
+        "GraphicName": "datejust.jpg",
+        "CostPrice": 6500,
+        "MSRP": 8000,
+        "QtyOnHand": 8,
+        "QtyOnBackOrder": 0,
+        "Description": "A classic Rolex model, the Datejust features elegant styling and a date window at 3 o'clock."
+      },
+      {
+        "Id": "RLX004",
+        "BrandId": 1,
+        "ProductName": "Explorer",
+        "GraphicName": "explorer.jpg",
+        "CostPrice": 6800,
+        "MSRP": 8400,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 1,
+        "Description": "The Rolex Explorer is built for adventurers and offers excellent legibility and durability."
+      },
+      {
+        "Id": "RLX005",
+        "BrandId": 1,
+        "ProductName": "GMT-Master II",
+        "GraphicName": "gmtmaster2.jpg",
+        "CostPrice": 8800,
+        "MSRP": 11200,
+        "QtyOnHand": 6,
+        "QtyOnBackOrder": 2,
+        "Description": "Ideal for travelers, the Rolex GMT-Master II allows tracking of multiple time zones."
+      },
+      {
+        "Id": "RLX006",
+        "BrandId": 1,
+        "ProductName": "Yacht-Master",
+        "GraphicName": "yachtmaster.jpg",
+        "CostPrice": 8900,
+        "MSRP": 11500,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 1,
+        "Description": "The Rolex Yacht-Master blends functionality and luxury, suited for marine enthusiasts."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Omega",
+    "Products": [
+      {
+        "Id": "OMG001",
+        "BrandId": 2,
+        "ProductName": "Speedmaster",
+        "GraphicName": "speedmaster.jpg",
+        "CostPrice": 5200,
+        "MSRP": 6500,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 1,
+        "Description": "The Omega Speedmaster is famous as the first watch on the moon, with precision chronograph features."
+      },
+      {
+        "Id": "OMG002",
+        "BrandId": 2,
+        "ProductName": "Seamaster",
+        "GraphicName": "seamaster.jpg",
+        "CostPrice": 4900,
+        "MSRP": 6100,
+        "QtyOnHand": 14,
+        "QtyOnBackOrder": 0,
+        "Description": "Omega's Seamaster is a classic diving watch with water resistance and a sleek design."
+      },
+      {
+        "Id": "OMG003",
+        "BrandId": 2,
+        "ProductName": "De Ville",
+        "GraphicName": "deville.jpg",
+        "CostPrice": 4500,
+        "MSRP": 5800,
+        "QtyOnHand": 6,
+        "QtyOnBackOrder": 1,
+        "Description": "The De Ville collection offers refined elegance with sophisticated mechanical movements."
+      },
+      {
+        "Id": "OMG004",
+        "BrandId": 2,
+        "ProductName": "Constellation",
+        "GraphicName": "constellation.jpg",
+        "CostPrice": 4700,
+        "MSRP": 6000,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 2,
+        "Description": "Recognized for its star logo, the Omega Constellation emphasizes style and precision."
+      },
+      {
+        "Id": "OMG005",
+        "BrandId": 2,
+        "ProductName": "Railmaster",
+        "GraphicName": "railmaster.jpg",
+        "CostPrice": 4300,
+        "MSRP": 5500,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 0,
+        "Description": "Designed for engineers and scientists, the Railmaster resists magnetic fields and offers simplicity."
+      },
+      {
+        "Id": "OMG006",
+        "BrandId": 2,
+        "ProductName": "Aqua Terra",
+        "GraphicName": "aquaterra.jpg",
+        "CostPrice": 5000,
+        "MSRP": 6300,
+        "QtyOnHand": 4,
+        "QtyOnBackOrder": 2,
+        "Description": "The Omega Aqua Terra blends dressy aesthetics with sport functionality, ideal for everyday wear."
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Seiko",
+    "Products": [
+      {
+        "Id": "SKO001",
+        "BrandId": 3,
+        "ProductName": "Presage",
+        "GraphicName": "presage.jpg",
+        "CostPrice": 400,
+        "MSRP": 520,
+        "QtyOnHand": 20,
+        "QtyOnBackOrder": 0,
+        "Description": "Seiko Presage combines Japanese craftsmanship with automatic movements in dressy designs."
+      },
+      {
+        "Id": "SKO002",
+        "BrandId": 3,
+        "ProductName": "Prospex",
+        "GraphicName": "prospex.jpg",
+        "CostPrice": 450,
+        "MSRP": 580,
+        "QtyOnHand": 18,
+        "QtyOnBackOrder": 1,
+        "Description": "The Prospex line offers rugged, adventure-ready watches for diving and sport activities."
+      },
+      {
+        "Id": "SKO003",
+        "BrandId": 3,
+        "ProductName": "5 Sports",
+        "GraphicName": "5sports.jpg",
+        "CostPrice": 320,
+        "MSRP": 420,
+        "QtyOnHand": 25,
+        "QtyOnBackOrder": 0,
+        "Description": "The Seiko 5 Sports offers reliable automatic movement in an affordable, stylish package."
+      },
+      {
+        "Id": "SKO004",
+        "BrandId": 3,
+        "ProductName": "Astron",
+        "GraphicName": "astron.jpg",
+        "CostPrice": 600,
+        "MSRP": 750,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 1,
+        "Description": "The Astron series features GPS Solar technology for ultimate timekeeping precision."
+      },
+      {
+        "Id": "SKO005",
+        "BrandId": 3,
+        "ProductName": "King Seiko",
+        "GraphicName": "kingseiko.jpg",
+        "CostPrice": 550,
+        "MSRP": 700,
+        "QtyOnHand": 8,
+        "QtyOnBackOrder": 0,
+        "Description": "King Seiko revives classic vintage designs with refined casework and modern movements."
+      },
+      {
+        "Id": "SKO006",
+        "BrandId": 3,
+        "ProductName": "Lukia",
+        "GraphicName": "lukia.jpg",
+        "CostPrice": 380,
+        "MSRP": 490,
+        "QtyOnHand": 12,
+        "QtyOnBackOrder": 2,
+        "Description": "Lukia is a fashionable Seiko collection focused on women’s automatic and mechanical movements"
+      }
+    ]
+  }
+]
